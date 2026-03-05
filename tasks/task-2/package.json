@@ -5,8 +5,8 @@
   "scripts": {
     "test:yarn": "node test/index.js"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "@yarnpkg/builder": "^4.2.3"
+  }
 }
